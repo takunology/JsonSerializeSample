@@ -1,0 +1,13 @@
+F:\GitHub\JsonContractSample\JsonSerializeSample\bin\Debug\netcoreapp3.1\JsonSerializeSample.exe
+F:\GitHub\JsonContractSample\JsonSerializeSample\bin\Debug\netcoreapp3.1\JsonSerializeSample.deps.json
+F:\GitHub\JsonContractSample\JsonSerializeSample\bin\Debug\netcoreapp3.1\JsonSerializeSample.runtimeconfig.json
+F:\GitHub\JsonContractSample\JsonSerializeSample\bin\Debug\netcoreapp3.1\JsonSerializeSample.runtimeconfig.dev.json
+F:\GitHub\JsonContractSample\JsonSerializeSample\bin\Debug\netcoreapp3.1\JsonSerializeSample.dll
+F:\GitHub\JsonContractSample\JsonSerializeSample\bin\Debug\netcoreapp3.1\JsonSerializeSample.pdb
+F:\GitHub\JsonContractSample\JsonSerializeSample\obj\Debug\netcoreapp3.1\JsonSerializeSample.csprojAssemblyReference.cache
+F:\GitHub\JsonContractSample\JsonSerializeSample\obj\Debug\netcoreapp3.1\JsonSerializeSample.AssemblyInfoInputs.cache
+F:\GitHub\JsonContractSample\JsonSerializeSample\obj\Debug\netcoreapp3.1\JsonSerializeSample.AssemblyInfo.cs
+F:\GitHub\JsonContractSample\JsonSerializeSample\obj\Debug\netcoreapp3.1\JsonSerializeSample.csproj.CoreCompileInputs.cache
+F:\GitHub\JsonContractSample\JsonSerializeSample\obj\Debug\netcoreapp3.1\JsonSerializeSample.dll
+F:\GitHub\JsonContractSample\JsonSerializeSample\obj\Debug\netcoreapp3.1\JsonSerializeSample.pdb
+F:\GitHub\JsonContractSample\JsonSerializeSample\obj\Debug\netcoreapp3.1\JsonSerializeSample.genruntimeconfig.cache
